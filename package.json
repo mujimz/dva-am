@@ -1,0 +1,19 @@
+{
+  "name": "antd-mobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".roadhogrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujimz/dva-am.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mujimz/dva-am/issues"
+  },
+  "homepage": "https://github.com/mujimz/dva-am#readme"
+}
